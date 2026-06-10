@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+sysmon
+
+# Editor / IDE
+*.o
+*.d
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
